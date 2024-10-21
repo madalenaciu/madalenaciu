@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madalenaciu
-- 👀 I’m interested in Database, AI and WEB development
+- 👀 I’m interested in Database, Big Data and Web Design
 - 🌱 I’m currently studying Computer Science at AUEB in Athens 
 - 📫 How to reach me ..... on LinkedIn (https://www.linkedin.com/in/madalena-ciubotariu-92341a283/)
 
